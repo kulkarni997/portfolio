@@ -17,8 +17,8 @@ export const skillsData = [
   "Pytorch",
   "Pandas",
   "Sklearn",
-  "Firebase",
-  "MaterialUI",
+  "System Design",
+  "Distributed Systems",
 ];
 
 

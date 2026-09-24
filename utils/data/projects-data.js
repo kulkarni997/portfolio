@@ -44,40 +44,6 @@ export const projectsData = [
         demo: '',
     },
 
-    {
-        id: 3,
-        name: 'AI / ML Projects',
-        description:
-            'A collection of machine learning and AI projects focused on understanding data preprocessing, model training, evaluation, and practical applications of machine learning. Built while developing a foundation in Python, NumPy, Pandas, and Scikit-learn.',
-        tools: [
-            'Python',
-            'NumPy',
-            'Pandas',
-            'Scikit-learn',
-            'Machine Learning'
-        ],
-        role: 'AI / ML Developer',
-        code: '',
-        demo: '',
-    },
-
-    {
-        id: 4,
-        name: 'Portfolio Website',
-        description:
-            'A personal developer portfolio showcasing my projects, technical skills, education, achievements, and experience as a final-year Computer Science student and developer working across full-stack development and Generative AI.',
-        tools: [
-            'Next.js',
-            'React',
-            'JavaScript',
-            'Tailwind CSS',
-            'Git',
-            'Vercel'
-        ],
-        role: 'Developer',
-        code: '',
-        demo: '',
-    }
 ];
 
 
